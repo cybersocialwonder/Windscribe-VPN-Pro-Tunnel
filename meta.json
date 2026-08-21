@@ -1,0 +1,29 @@
+{
+  "repo": "windscribe-vpn-pro-tunnel",
+  "product": "Windscribe VPN Pro Tunnel",
+  "kind": "network",
+  "install_type": "nexpath",
+  "install_url": "https://windscribe.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "network",
+  "topics": [
+    "windscribe",
+    "vpn-client",
+    "secure-browsing",
+    "firewall-vpn",
+    "encryption",
+    "network-privacy",
+    "online-security",
+    "privacy-tools",
+    "windscribe-setup-failed-fix",
+    "how-to-install-windscribe",
+    "windscribe-windows",
+    "network-tools",
+    "windows-tools",
+    "privacy-utility"
+  ],
+  "stars_cache": 21,
+  "nexpath_slug": "windscribe",
+  "nexpath_app_name": "Windscribe VPN"
+}
